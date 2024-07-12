@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EstudantesApi",
-    "\\EstudantesApi\\Controllers"
+    "\\EstudantesApi"
   ],
-  "SelectedNode": "\\EstudantesApi\\Program.cs",
+  "SelectedNode": "\\EstudantesApi",
   "PreviewInSolutionExplorer": false
 }
