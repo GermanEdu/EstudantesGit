@@ -1,4 +1,6 @@
-﻿namespace EstudantesApi.Models
+﻿using CsvHelper.Configuration;
+
+namespace EstudantesApi.Models
 {
     public class Estudante
     {
@@ -14,4 +16,5 @@
         public DateTime DataNascimento { get; set; }
 
     }
+
 }
