@@ -50,9 +50,21 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.6.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.6.3, )"
             }
           },
           "imports": [

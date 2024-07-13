@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\ProjetosCSharp\\EstudantesApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C74D10B-8D03-4EF3-BFBB-804582E6DCFA}|EstudantesApi\\EstudantesApi.csproj|d:\\projetoscsharp\\estudantesapi\\estudantesapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C74D10B-8D03-4EF3-BFBB-804582E6DCFA}|EstudantesApi\\EstudantesApi.csproj|solutionrelative:estudantesapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C74D10B-8D03-4EF3-BFBB-804582E6DCFA}|EstudantesApi\\EstudantesApi.csproj|d:\\projetoscsharp\\estudantesapi\\estudantesapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C74D10B-8D03-4EF3-BFBB-804582E6DCFA}|EstudantesApi\\EstudantesApi.csproj|solutionrelative:estudantesapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C74D10B-8D03-4EF3-BFBB-804582E6DCFA}|EstudantesApi\\EstudantesApi.csproj|d:\\projetoscsharp\\estudantesapi\\estudantesapi\\models\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C74D10B-8D03-4EF3-BFBB-804582E6DCFA}|EstudantesApi\\EstudantesApi.csproj|solutionrelative:estudantesapi\\models\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C74D10B-8D03-4EF3-BFBB-804582E6DCFA}|EstudantesApi\\EstudantesApi.csproj|d:\\projetoscsharp\\estudantesapi\\estudantesapi\\estudantesapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6C74D10B-8D03-4EF3-BFBB-804582E6DCFA}|EstudantesApi\\EstudantesApi.csproj|solutionrelative:estudantesapi\\estudantesapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C74D10B-8D03-4EF3-BFBB-804582E6DCFA}|EstudantesApi\\EstudantesApi.csproj|d:\\projetoscsharp\\estudantesapi\\estudantesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C74D10B-8D03-4EF3-BFBB-804582E6DCFA}|EstudantesApi\\EstudantesApi.csproj|solutionrelative:estudantesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\ProjetosCSharp\\EstudantesApi\\EstudantesApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "EstudantesApi\\Models\\Usuario.cs",
+              "ToolTip": "D:\\ProjetosCSharp\\EstudantesApi\\EstudantesApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "EstudantesApi\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:07:04.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudantesApi",
+              "DocumentMoniker": "D:\\ProjetosCSharp\\EstudantesApi\\EstudantesApi\\EstudantesApi.csproj",
+              "RelativeDocumentMoniker": "EstudantesApi\\EstudantesApi.csproj",
+              "ToolTip": "D:\\ProjetosCSharp\\EstudantesApi\\EstudantesApi\\EstudantesApi.csproj",
+              "RelativeToolTip": "EstudantesApi\\EstudantesApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T15:03:33.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ProjetosCSharp\\EstudantesApi\\EstudantesApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EstudantesApi\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\ProjetosCSharp\\EstudantesApi\\EstudantesApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "EstudantesApi\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:01:00.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "D:\\ProjetosCSharp\\EstudantesApi\\EstudantesApi\\Models\\Estudante.cs",
+              "RelativeDocumentMoniker": "EstudantesApi\\Models\\Estudante.cs",
+              "ToolTip": "D:\\ProjetosCSharp\\EstudantesApi\\EstudantesApi\\Models\\Estudante.cs",
+              "RelativeToolTip": "EstudantesApi\\Models\\Estudante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:59:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProjetosCSharp\\EstudantesApi\\EstudantesApi\\Program.cs",
               "RelativeDocumentMoniker": "EstudantesApi\\Program.cs",
               "ToolTip": "D:\\ProjetosCSharp\\EstudantesApi\\EstudantesApi\\Program.cs",
               "RelativeToolTip": "EstudantesApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T21:46:31.756Z",
               "EditorCaption": ""

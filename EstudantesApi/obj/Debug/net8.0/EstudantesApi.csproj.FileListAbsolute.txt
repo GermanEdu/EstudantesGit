@@ -33,3 +33,9 @@ D:\ProjetosCSharp\EstudantesApi\EstudantesApi\obj\Debug\net8.0\ref\EstudantesApi
 D:\ProjetosCSharp\EstudantesApi\EstudantesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 D:\ProjetosCSharp\EstudantesApi\EstudantesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\ProjetosCSharp\EstudantesApi\EstudantesApi\obj\Debug\net8.0\EstudantesApi.sourcelink.json
+D:\ProjetosCSharp\EstudantesApi\EstudantesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\ProjetosCSharp\EstudantesApi\EstudantesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ProjetosCSharp\EstudantesApi\EstudantesApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjetosCSharp\EstudantesApi\EstudantesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ProjetosCSharp\EstudantesApi\EstudantesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ProjetosCSharp\EstudantesApi\EstudantesApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
